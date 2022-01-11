@@ -1,0 +1,248 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body , header , .main{
+	font-family: 'Open Sans', sans-serif;
+}
+.pd0{
+	padding:0px !important;
+}
+.mg0{
+	margin:0px !important;
+}
+.pdl{
+	padding-left:0px !important;
+}
+.pdr{
+	padding-right:0px !important;
+}
+.black-b{
+	text-align:center;
+	background:#000;
+	color:#fff;
+	font-size:15px;
+}
+.black-b p{
+	
+	padding:10px;
+	
+}
+header{
+	    border-top: 4px solid #7bae23;
+}
+.s-input{
+	height:40px;
+	padding:10px 20px;
+	font-size: 14px;
+	border-radius:6px 0px 6px 0px;
+	background:#f5f5f5;
+	border: none;
+	width:80%;
+}
+.b-input{
+	    background: #e96125;
+    border: none;
+    padding: 11px 15px;
+    color: #fff;
+    font-weight: 600;
+    margin-left: -22px;
+}
+.ic{
+	    padding-right: 16px;
+	float: right;
+    color: #7bae23;
+    font-size: 32px;
+}
+.login{
+	    color: #777;
+		    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.3rem;
+}
+.cont-no{
+	width:70%;
+	    font-size: 16px;
+	float:left;
+}
+.n-bar{
+	width:100%;
+}
+.n-bar a{
+	font-size:13px;
+	    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background: #7bae23;
+    letter-spacing: -0.5px;
+    color: #fff;
+}
+.n-bar a:hover{
+    background: #7bae23 !important;
+	
+    color: #fff !important;
+}
+.listss li{
+	    padding: 13px 15px !important;
+}
+.listss li button{
+	    background: #7bae23;
+    color: #fff;
+    border: none;
+    height: 50px;
+    width: 100%;
+}
+.listss li a{
+	color:#666;
+}
+.listss li b{
+	font-size:16px;
+}
+.listss li:first-child{
+	background:#f9f9f9;
+}
+.listss li:last-child{
+	border-top:none;
+}
+.main{
+	margin-top: 35px;
+}
+.ic2 i{
+	    float: right;
+    text-align: right;
+    font-size: 28px;
+    padding: 35px 0px;
+    color: #7bae23;
+}
+.grey-b{
+	background:#f9f9f9;
+	    margin: 0px 0px 40px; 
+}
+.gr span{
+	font-size:16px;
+	margin-bottom:10px;
+	font-weight:600;
+}
+.gr p{
+	color:#839199;
+	font-weight: 100;
+	    padding-top: 12px;
+    font-size: 13px;
+}
+.text-wp{
+	padding-top: 20px;
+    padding-bottom: 13px;
+}
+.pro-crous img{
+	width:100%;
+	margin-bottom:20px;
+}
+.half{
+	width:50%;
+	float:left;
+	padding-top:15px;
+}
+.pro-crous{
+	width:100%;
+	float:left;
+	overflow:hidden;
+	margin-right:10px;
+}
+.pro-crous a{
+	white-space: pre-line;
+	    color: #777;
+    font-size: 14px;
+    letter-spacing: -0.5;
+}
+.half p{
+	    text-decoration: line-through;
+    font-size: 14px;
+    color: #959a9e;
+    font-weight: 700;
+	margin:0px;
+}
+.half span{
+	font-size: 20px;
+}
+.half button{
+	font-family: 'Oswald', sans-serif;
+	border:none;
+	color:#fff;
+	border-radius:100px;
+	background:#e96125;
+	FONT-SIZE:12PX;
+	    padding: 6px 11px;
+    letter-spacing: 0.5;
+}
+.grey-b h2{
+	font-size:16px;
+	font-weight:700;
+	padding-bottom:6px;
+	border-bottom:1px solid #dcd8d8;
+}
+.wide-pp{
+	font-size: 16px ;
+    margin-bottom: 10px ;
+	padding-top:15px;
+}
+.wide-pro img{
+	width:168px;
+}
+.gr{
+	margin-top:30px;
+}
+.wide-pro {
+	width:49%;
+	float:left;
+	padding: 0;
+    height: 160px;
+    margin-top: 0px ;
+    margin-bottom: 18px ;
+	background-color: #fff;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    cursor: pointer;
+    display: block;
+}
+.wide-txt{
+	    padding-top: 44px !important;
+    padding-left: 22px;
+}
+.mgr-true{
+	margin-right:20px;
+}
+.ftr-bg{
+	background:#272723;
+}
+.ftr-bg h3{
+	color:#fff;
+	font-size:16px;
+	font-weight:700;
+}
+.ftr-bg p{
+	color:#fff;
+	    margin-top: 12px;
+	margin-bottom:0px;
+}
+.ftr-bg li{
+	list-style:none;
+	margin-bottom: 5px;
+}
+.ftr-bg li a, .ftr-bg span{
+	color:#A8A8A8;
+	font-size:13px;
+}
+.ftr-bg li i{
+	color:#fff;
+	margin-right:5px;
+}
+.play-store img{
+	width:128px;
+}
+.bdr-btm{
+	padding: 22px 0px;
+	border-bottom:1px solid #3d3d38;
+}
+.lwr{
+	padding:20px 0px;
+}
